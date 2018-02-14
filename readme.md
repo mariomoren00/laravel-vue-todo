@@ -24,7 +24,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 ### Directory
 
 ```bash
-cd laravel-vue-todo
+cd vue-todo
 ```
 
 ### Update dependencies
@@ -37,6 +37,10 @@ npm install
 
 ```bash
 npm run build
+```
+
+```bash
+composer update or install
 ```
 
 ```bash
